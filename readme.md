@@ -1,4 +1,5 @@
 # prerequiste
+Collab Notebook - https://colab.research.google.com/drive/1ox-GmNW0Wv794-_LJLGbUOtwaVrf9kRM?usp=sharing
 create a kaggle key to directly download the dataset
 
 # steps to run notebook
